@@ -24,45 +24,35 @@ export default {
 
 			<div class="filters-content">
 				<div class="row grid">
+					<a href="https://github.com/clintjason/reservia" target="_blank" class="single-portfolio col-sm-4 all mockup">
+						<div class="relative">
+							<div class="thumb">
+								<div class="overlay overlay-bg"></div>
+								<img class="image img-fluid" src="@/assets/images/portfolio.png" alt="My Portfolio Pic">
+							</div>                             
+						</div>
+						<div class="p-inner">
+							<h4>Portfolio</h4>
+							<div class="cat">Portfolio Website</div>
+						</div>                                         
+					</a>
 					<a class="single-portfolio col-sm-4 all mockup">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="images/p1.jpg" alt="">
-							</div>
-							<a href="images/p1.jpg" class="img-pop-up">  
-								<div class="middle">
-									<div class="text align-self-center d-flex"><img src="images/preview.png" alt=""></div>
-								</div>
-							</a>                                  
-						</div>
-						<div class="p-inner">
-							<h4>Square Box Mockup</h4>
-							<div class="cat">Mockup</div>
-						</div>                                         
-					</a>
-					<div class="single-portfolio col-sm-4 all mockup">
-						<div class="relative">
-							<div class="thumb">
-								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="images/p2.jpg" alt="">
-							</div>
-							<a href="images/p2.jpg" class="img-pop-up">  
-								<div class="middle">
-									<div class="text align-self-center d-flex"><img src="images/preview.png" alt=""></div>
-								</div>
-							</a>                                  
+								<img class="image img-fluid" src="@/assets/images/p2.jpg" alt="">
+							</div>                   
 						</div>
 						<div class="p-inner">
 							<h4>Product Box Package Mockup</h4>
 							<div class="cat">Mockup</div>
 						</div>                                         
-					</div>
+					</a>
 					<a href="https://github.com/clintjason/reservia" target="_blank"  class="single-portfolio col-sm-4 all packaging">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="@/assets/images/reservia.png" alt="">
+								<img class="image img-fluid" src="@/assets/images/reservia.png" alt="Reservia Preview">
 							</div>                          
 						</div> 
 						<div class="p-inner">
@@ -74,7 +64,7 @@ export default {
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="@/assets/images/ohmyfood.png" alt="">
+								<img class="image img-fluid" src="@/assets/images/ohmyfood.png" alt="Ohmyfood Preview">
 							</div>
 						</div>
 						<div class="p-inner">
@@ -86,7 +76,7 @@ export default {
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="@/assets/images/lapantere.png" alt="">
+								<img class="image img-fluid" src="@/assets/images/lapantere.png" alt="La panthère Preview">
 							</div>
 						</div>
 						<div class="p-inner">
@@ -98,7 +88,7 @@ export default {
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="@/assets/images/kanap.png" alt="">
+								<img class="image img-fluid" src="@/assets/images/kanap.png" alt="Kanap Preview">
 							</div>
 						</div>
 						<div class="p-inner">
@@ -110,7 +100,7 @@ export default {
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="@/assets/images/gosahc.png" alt="">
+								<img class="image img-fluid" src="@/assets/images/gosahc.png" alt="GOSAHC Preview">
 							</div>
 						</div>
 						<div class="p-inner">
@@ -122,7 +112,7 @@ export default {
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="@/assets/images/omnifood.png" alt="">
+								<img class="image img-fluid" src="@/assets/images/omnifood.png" alt="Omnifood Preview">
 							</div>
 						</div>
 						<div class="p-inner">
@@ -130,28 +120,23 @@ export default {
 							<div class="cat">Restaurant Website</div>
 						</div>
 					</a>
-					<div class="single-portfolio col-sm-4 all typography">
+					<a class="single-portfolio col-sm-4 all typography">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="images/p5.jpg" alt="">
-							</div>
-							<a href="images/p5.jpg" class="img-pop-up">  
-								<div class="middle">
-									<div class="text align-self-center d-flex"><img src="images/preview.png" alt=""></div>
-								</div>
-							</a>                                
+								<img class="image img-fluid" src="@/assets/images/p5.jpg" alt="">
+							</div>                       
 						</div>
 						<div class="p-inner">
 							<h4>Isometric 3D Extrusion</h4>
 							<div class="cat">Typography</div>
 						</div>
-					</div>
+					</a>
 					<a href="https://github.com/clintjason/Kasa" target="_blank" class="single-portfolio col-sm-4 all mockup">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="@/assets/images/kasa.png" alt="">
+								<img class="image img-fluid" src="@/assets/images/kasa.png" alt="kASA Preview">
 							</div>                               
 						</div>
 						<div class="p-inner">
