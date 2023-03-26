@@ -17,8 +17,10 @@
 							<img src="@/assets/images/wango_boris.png" alt="Image placeholder" class="img-fluid">
 						</div>
 						<blockquote class="block-47-quote">
-							<p>&ldquo; He has an Excellence mindset. His Web Designs allow for scalability and his finishings are pixel perfect.&rdquo;</p>
-							<cite class="block-47-quote-author">&mdash; Wango Boris, CEO <a href="#">Wango Boris Foundation.</a></cite>
+							<p>&ldquo;He has an Excellence mindset. His Web Designs allow for scalability and his finishings are pixel perfect.&rdquo;</p>
+							<cite class="block-47-quote-author">&mdash; Wango Boris,
+								<br />CEO <a href="#">WABOCt</a>
+								<br /> SENIOR LEADER <a href="#">BACFF</a></cite>
 						</blockquote>
 					</div>
 
@@ -27,11 +29,13 @@
 
 					<div class="block-47 d-flex mb-5">
 						<div class="block-47-image">
-							<img src="@/assets/images/person_2.jpg" alt="Image placeholder" class="img-fluid">
+							<img src="@/assets/images/pavel.jpeg" alt="Image placeholder" class="img-fluid">
 						</div>
 						<blockquote class="block-47-quote">
-							<p>&ldquo;Got my website revamp in record time, yet it was a total upgrade which improved quality, usability, performance, and accesibility.&rdquo;</p>
-							<cite class="block-47-quote-author">&mdash; Pavel Berka, CEO <a href="#">IGraphix237</a></cite>
+							<p>&ldquo;Got my website revamp in record time, yet it was a total upgrade which improved quality, usability, performance, and accessibility.&rdquo;</p>
+							<cite class="block-47-quote-author">&mdash; Pavel Berka,
+								<br/> CEO <a href="#">IGraphix237</a>
+								<br/> GRAPHIC DESIGNER <a href="#">United Nation's SG Office</a></cite>
 						</blockquote>
 					</div>
 				</div>
