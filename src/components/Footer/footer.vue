@@ -26,3 +26,18 @@
 		</div>
 	</footer>
 </template>
+<script>
+/* import * from "@/assets/js/vendor/jquery.min.js";
+import * from "@/assets/js/vendor/jquery-migrate-3.0.1.min.js";
+import * from "@/assets/js/vendor/popper.min.js";
+import * from "@/assets/js/vendor/bootstrap.min.js";
+import * from "@/assets/js/vendor/jquery.easing.1.3.js";
+import * from "@/assets/js/vendor/jquery.stellar.min.js";
+import * from "@/assets/js/vendor/jquery.waypoints.min.js";
+import * from "@/assets/js/custom.js" */
+
+export default {
+
+}
+
+</script>
