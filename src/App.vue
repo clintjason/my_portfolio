@@ -23,7 +23,7 @@ export default {
 </script>
 
 <template>
-  <Header />
+  <Header id="up"/>
   <main>
     <Portfolio />
     <Resume />
@@ -32,6 +32,9 @@ export default {
     <Services />
     <Contact />
   </main>
+  <a class="sticky-icon t-icon" href="#up">
+    <i class="fa-sharp fa-solid fa-arrow-up"></i>
+  </a>
   <Footer />
 </template>
 

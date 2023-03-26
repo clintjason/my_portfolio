@@ -14,10 +14,10 @@
 
 					<div class="block-47 d-flex mb-5">
 						<div class="block-47-image">
-							<img src="@/assets/images/person_1.jpg" alt="Image placeholder" class="img-fluid">
+							<img src="@/assets/images/wango_boris.png" alt="Image placeholder" class="img-fluid">
 						</div>
 						<blockquote class="block-47-quote">
-							<p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;</p>
+							<p>&ldquo; He has an Excellence mindset. His Web Designs allow for scalability and his finishings are pixel perfect.&rdquo;</p>
 							<cite class="block-47-quote-author">&mdash; Wango Boris, CEO <a href="#">Wango Boris Foundation.</a></cite>
 						</blockquote>
 					</div>
@@ -30,40 +30,34 @@
 							<img src="@/assets/images/person_2.jpg" alt="Image placeholder" class="img-fluid">
 						</div>
 						<blockquote class="block-47-quote">
-							<p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;</p>
+							<p>&ldquo;Got my website revamp in record time, yet it was a total upgrade which improved quality, usability, performance, and accesibility.&rdquo;</p>
 							<cite class="block-47-quote-author">&mdash; Pavel Berka, CEO <a href="#">IGraphix237</a></cite>
 						</blockquote>
 					</div>
-
 				</div>
-
 				<div class="col-md-6">
-
 					<div class="block-47 d-flex mb-5">
 						<div class="block-47-image">
 							<img src="@/assets/images/person_3.jpg" alt="Image placeholder" class="img-fluid">
 						</div>
 						<blockquote class="block-47-quote">
-							<p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;</p>
-							<cite class="block-47-quote-author">&mdash; Ralph Wantek, CEO <a href="#">Adipster Tech</a></cite>
+							<p>&ldquo;He is an outstanding dev. Reliable, endurant, performant, allows himself to be stretched and achieves task in timely fashion.&rdquo;</p>
+							<cite class="block-47-quote-author">&mdash; Isidore, CTO <a href="#">Adipster Tech</a></cite>
 						</blockquote>
 					</div>
-
 				</div>
 				<div class="col-md-6">
-
 					<div class="block-47 d-flex mb-5">
 						<div class="block-47-image">
-							<img src="@/assets/images/person_4.jpg" alt="Image placeholder" class="img-fluid">
+							<img src="@/assets/images/Yannick_Tagni.png" alt="Image placeholder" class="img-fluid">
 						</div>
 						<blockquote class="block-47-quote">
-							<p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;</p>
+							<p>&ldquo;From the website design proposal, the coaching, and the finishing, he has both good soft and hard skills.&rdquo;</p>
 							<cite class="block-47-quote-author">&mdash; Yannick Yemele, CEO <a href="#">DECENTAS</a></cite>
 						</blockquote>
 					</div>
 
 				</div>
-
 			</div>
 		</div>
 	</section>
