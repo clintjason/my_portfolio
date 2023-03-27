@@ -32,14 +32,14 @@
 					<h2 class="mb-5">Experience</h2>
 
 					<div class="resume-item mb-4">
-						<span class="date"><span class="icon-calendar"></span> December 2021 - Present</span>
+						<span class="date"><span class="icon-calendar"></span> January 2022 - Present</span>
 						<h3>FullStack Developer</h3>
 						<p>Built an elearning fullstack application for financial intelligence tutoring.</p>
 						<span class="school">CJ Group Ltd</span>
 					</div>
 
 					<div class="resume-item mb-4">
-						<span class="date"><span class="icon-calendar"></span> February 2019 - Present</span>
+						<span class="date"><span class="icon-calendar"></span> February 2019 - April 2023</span>
 						<h3>Web Developer Mentor</h3>
 						<p>Mentor web developers on both english and french web developer and web integrator paths.</p>
 						<span class="school">Openclassrooms</span>
@@ -53,7 +53,7 @@
 					</div>
 
 					<div class="resume-item mb-4">
-						<span class="date"><span class="icon-calendar"></span> March 2016 - February 2017</span>
+						<span class="date"><span class="icon-calendar"></span> August 2016 - February 2017</span>
 						<h3>Software Engineer</h3>
 						<p>Built a Barcode mobile Application with android and PHP to scan student's barcode id.</p>
 						<span class="school">IT Kamer</span>
