@@ -54,7 +54,7 @@
 						</li>
 						<li>
 							<span class="text-uppercase">Phone</span>
-							+237 677 09 67 49
+								<a href="https://wa.me/677096749/" target="_blank" class="social-item"><span class="icon-whatsapp"></span> (+237) 677 09 67 49</a>
 						</li>
 						<li>
 							<span class="text-uppercase">Address</span>
