@@ -116,6 +116,12 @@ a {
 	flex-wrap: wrap;
 }
 
+.flex-box {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
 .site-navbar {
 	
 	border: none;
@@ -736,9 +742,12 @@ a {
 	&:active, &:focus {
 		background: lighten(#333, 5%);
 	}
+	&:focus {
+		color: white !important;
+	}
 
 	&::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-	  color:rgba($white, .5);
+	  color:rgba($white, .0);
 	}
 	&::-moz-placeholder { /* Firefox 19+ */
 	  color:rgba($white, .5);
@@ -765,7 +774,7 @@ a {
 		list-style: none;
 		margin-bottom: 20px;
 		> span {
-			color: white;
+			color: white !important;
 			letter-spacing: .1em;
 			font-size: 12px;
 			font-weight: 500;
