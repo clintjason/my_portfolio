@@ -17,13 +17,25 @@ export default {
 					<li data-filter=".packaging">Basics</li>
 					<li data-filter=".mockup">ReactJs</li>
 					<li data-filter=".typography">VueJs</li>
-					<li data-filter=".photography">WordPress</li>
+					<li data-filter=".wordpress">WordPress</li>
 					<li data-filter=".backend">Backend</li>
 				</ul>
 			</div>
 
 			<div class="filters-content">
 				<div class="row grid">
+					<a href="https://igraphix237.com/" target="_blank" class="single-portfolio col-sm-4 all wordpress">
+						<div class="relative">
+							<div class="thumb">
+								<div class="overlay overlay-bg"></div>
+								<img class="image img-fluid" src="@/assets/images/igraphix237.png" alt="Igraphix237 Homepage pic">
+							</div>                             
+						</div>
+						<div class="p-inner">
+							<h4>igraphix237</h4>
+							<div class="cat">Graphic Design Company Website</div>
+						</div>                                         
+					</a>
 					<a href="https://omnitextgroup.com/" target="_blank" class="single-portfolio col-sm-4 all mockup">
 						<div class="relative">
 							<div class="thumb">
