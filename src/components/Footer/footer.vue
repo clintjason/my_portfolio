@@ -18,7 +18,7 @@
 						<a href="#" class="social-item"><span class="icon-twitter"></span></a>
 						<a href="https://www.instagram.com/jasonngassa/" target="_blank" class="social-item"><span class="icon-instagram2"></span></a>
 						<a href="https://www.linkedin.com/in/ngassa-jason-965105125/" target="_blank" class="social-item"><span class="icon-linkedin2"></span></a>
-						<a href="https://github.com/clintjason/" class="social-item"><span class="icon-github"></span></a>
+						<a href="https://github.com/clintjason/" target="_blank" class="social-item"><span class="icon-github"></span></a>
 					</p>
 				</div>
 			</div>
