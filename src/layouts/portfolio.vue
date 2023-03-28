@@ -24,16 +24,16 @@ export default {
 
 			<div class="filters-content">
 				<div class="row grid">
-					<a href="https://github.com/clintjason/reservia" target="_blank" class="single-portfolio col-sm-4 all mockup">
+					<a href="https://omnitextgroup.com/" target="_blank" class="single-portfolio col-sm-4 all mockup">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="@/assets/images/portfolio.png" alt="My Portfolio Pic">
+								<img class="image img-fluid" src="@/assets/images/omnitextgroup.png" alt="OmnitextGroup Homepage pic">
 							</div>                             
 						</div>
 						<div class="p-inner">
-							<h4>Portfolio</h4>
-							<div class="cat">Portfolio Website</div>
+							<h4>Omnitextgroup</h4>
+							<div class="cat">Linguistic Company Website</div>
 						</div>                                         
 					</a>
 					<a class="single-portfolio col-sm-4 all mockup">
@@ -47,6 +47,18 @@ export default {
 							<h4>Product Box Package Mockup</h4>
 							<div class="cat">Mockup</div>
 						</div>                                         
+					</a>
+					<a href="https://github.com/clintjason/Kasa" target="_blank" class="single-portfolio col-sm-4 all mockup">
+						<div class="relative">
+							<div class="thumb">
+								<div class="overlay overlay-bg"></div>
+								<img class="image img-fluid" src="@/assets/images/kasa.png" alt="kASA Preview">
+							</div>                               
+						</div>
+						<div class="p-inner">
+							<h4>Kasa</h4>
+							<div class="cat">Housing E-commerce Website</div>
+						</div>
 					</a>
 					<a href="https://github.com/clintjason/reservia" target="_blank"  class="single-portfolio col-sm-4 all packaging">
 						<div class="relative">
@@ -132,17 +144,17 @@ export default {
 							<div class="cat">Typography</div>
 						</div>
 					</a>
-					<a href="https://github.com/clintjason/Kasa" target="_blank" class="single-portfolio col-sm-4 all mockup">
+					<a href="https://www.clintjason.com/" target="_blank" class="single-portfolio col-sm-4 all typography">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="@/assets/images/kasa.png" alt="kASA Preview">
-							</div>                               
+								<img class="image img-fluid" src="@/assets/images/portfolio.png" alt="My Portfolio Pic">
+							</div>                             
 						</div>
 						<div class="p-inner">
-							<h4>Kasa</h4>
-							<div class="cat">Housing E-commerce Website</div>
-						</div>
+							<h4>Portfolio</h4>
+							<div class="cat">Portfolio Website</div>
+						</div>                                         
 					</a>
 					<a class="single-portfolio col-sm-4 all backend">
 						<div class="relative">

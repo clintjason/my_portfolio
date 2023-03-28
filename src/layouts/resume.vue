@@ -53,7 +53,7 @@
 					</div>
 
 					<div class="resume-item mb-4">
-						<span class="date"><span class="icon-calendar"></span> August 2016 - February 2017</span>
+						<span class="date"><span class="icon-calendar"></span> September 2016 - February 2017</span>
 						<h3>Software Engineer</h3>
 						<p>Built a Barcode mobile Application with android and PHP to scan student's barcode id.</p>
 						<span class="school">IT Kamer</span>

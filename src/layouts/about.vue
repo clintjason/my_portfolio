@@ -1,4 +1,14 @@
-<script></script>
+<script>
+import cv from "@/assets/Ngassa_Jason_cv.pdf";
+
+export default {
+	data() {
+		return {
+			cv:cv,
+		}
+	}
+}
+</script>
 <template>
   <section class="site-section" id="section-about">
 		<div class="container">
@@ -15,7 +25,7 @@
 
 					<p class="flex-bx">
 						<a href="#section-contact" class="btn btn-primary px-4 py-2 btn-sm smoothscroll">Hire Me</a>
-						<a href="#" class="btn btn-secondary px-4 py-2 btn-sm">Download CV</a>
+						<a :href="this.cv" class="btn btn-secondary px-4 py-2 btn-sm" download="Clint-Jason-CV">Download CV</a>
 					</p>
 				</div>
 			</div>
