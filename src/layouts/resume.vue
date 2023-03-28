@@ -12,7 +12,7 @@
 					<h2 class="mb-5">Education</h2>
 					<div class="resume-item mb-4">
 						<span class="date"><span class="icon-calendar"></span> December 2017 - 2020</span>
-						<h3>M.Eng in Software Engineering</h3>
+						<h3><a href="" target="_blank">M.Eng in Software Engineering</a></h3>
 						<p>Designed and built a machine learning model for the prediction of 5 recurrent tropical diseases based on a dataset of patient medical record and symptoms analysis.</p>
             <p>Designed and built a machine learning model for the prediction of the demographic spread of tropical diseases based on patient medical record and symptom analysis over a specific period and tropical region.</p>
 						<p>Built Fullstack Application with React-Redux-Flask to interface Machine Learning Model</p>
@@ -21,7 +21,7 @@
 
 					<div class="resume-item mb-4">
 						<span class="date"><span class="icon-calendar"></span> October 2013 - December 2017</span>
-						<h3>B.Eng in Software Engineering</h3>
+						<h3><a href="https://drive.google.com/file/d/1hSBgyzHCA2qKyM-9-3zS6a7PyEWaN5Iv/view?usp=sharing" target="_blank">B.Eng in Software Engineering</a></h3>
             <p>Built a prototype e-learning platform to illustrate online education.</p>
 						<span class="school">FET - University of Buea</span>
 					</div>
