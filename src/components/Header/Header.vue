@@ -5,6 +5,7 @@ export default {
   data() {
     return {
       pic: pic,
+      logo: logo,
     }
   },
   components: {
