@@ -16,7 +16,7 @@ export default {
 					<li class="active" data-filter="*">All</li>
 					<li data-filter=".packaging">Basics</li>
 					<li data-filter=".mockup">ReactJs</li>
-					<li data-filter=".typography">VueJs</li>
+					<li data-filter=".vuejs">VueJs</li>
 					<li data-filter=".wordpress">WordPress</li>
 					<li data-filter=".backend">Backend</li>
 				</ul>
@@ -144,19 +144,19 @@ export default {
 							<div class="cat">Restaurant Website</div>
 						</div>
 					</a>
-					<a class="single-portfolio col-sm-4 all typography">
+					<a href="https://money-mastery-frontend.vercel.app/" target="_blank" class="single-portfolio col-sm-4 all vuejs">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="@/assets/images/p5.jpg" alt="">
+								<img class="image img-fluid" src="@/assets/images/moneymastery.png" alt="Money Mastery Home Page Preview">
 							</div>                       
 						</div>
 						<div class="p-inner">
-							<h4>Isometric 3D Extrusion</h4>
-							<div class="cat">Typography</div>
+							<h4>Money Mastery Academy</h4>
+							<div class="cat">Finance Coaching Website - Vue3 + VueX</div>
 						</div>
 					</a>
-					<a href="https://www.clintjason.com/" target="_blank" class="single-portfolio col-sm-4 all typography">
+					<a href="https://www.clintjason.com/" target="_blank" class="single-portfolio col-sm-4 all vuejs">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
@@ -165,7 +165,7 @@ export default {
 						</div>
 						<div class="p-inner">
 							<h4>Portfolio</h4>
-							<div class="cat">Portfolio Website</div>
+							<div class="cat">Portfolio Website - Vite + Vue3</div>
 						</div>                                         
 					</a>
 					<a class="single-portfolio col-sm-4 all backend">
