@@ -20,7 +20,7 @@
 							<p>&ldquo;He has an Excellence mindset. His Web Designs allow for scalability and his finishings are pixel perfect.&rdquo;</p>
 							<cite class="block-47-quote-author">&mdash; Wango Boris,
 								<br />CEO <a href="#">WABOCt</a>
-								<br /> SENIOR LEADER <a href="#">BACFF</a></cite>
+								<br />SENIOR LEADER <a href="#">BACFF</a></cite>
 						</blockquote>
 					</div>
 
@@ -42,11 +42,11 @@
 				<div class="col-md-6">
 					<div class="block-47 d-flex mb-5">
 						<div class="block-47-image">
-							<img src="@/assets/images/person_3.jpg" alt="Image placeholder" class="img-fluid">
+							<img src="@/assets/images/isidore.jpeg" alt="Image placeholder" class="img-fluid">
 						</div>
 						<blockquote class="block-47-quote">
 							<p>&ldquo;He is an outstanding dev. Reliable, endurant, performant, allows himself to be stretched and achieves task in timely fashion.&rdquo;</p>
-							<cite class="block-47-quote-author">&mdash; Isidore, CTO <a href="#">Adipster Tech</a></cite>
+							<cite class="block-47-quote-author">&mdash; Isidore, HRM <a href="#">Adipster Tech</a></cite>
 						</blockquote>
 					</div>
 				</div>
