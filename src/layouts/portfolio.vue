@@ -168,11 +168,23 @@ export default {
 							<div class="cat">Portfolio Website - Vite + Vue3</div>
 						</div>                                         
 					</a>
-					<a class="single-portfolio col-sm-4 all backend">
+					<a href="https://github.com/clintjason/social_media_backend.git" target="_blank" class="single-portfolio col-sm-4 all backend">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="@/assets/images/backend_kanap_refurbished.png" alt="">
+								<img class="image img-fluid" src="@/assets/images/backend_api_social_network.png" alt="backend_api_social_network">
+							</div>                           
+						</div>
+						<div class="p-inner">
+							<h4>Backend API E-connecte</h4>
+							<div class="cat">Backend of Socia Media Website</div>
+						</div>
+					</a>
+					<a href="https://github.com/clintjason/backend_kanap.git" target="_blank" class="single-portfolio col-sm-4 all backend">
+						<div class="relative">
+							<div class="thumb">
+								<div class="overlay overlay-bg"></div>
+								<img class="image img-fluid" src="@/assets/images/backend_kanap_refurbished.png" alt="backend_api_kanap">
 							</div>                           
 						</div>
 						<div class="p-inner">
