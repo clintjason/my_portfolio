@@ -24,6 +24,18 @@ export default {
 
 			<div class="filters-content">
 				<div class="row grid">
+					<a href="https://www.cj-group.co/" target="_blank" class="single-portfolio col-sm-4 all wordpress">
+						<div class="relative">
+							<div class="thumb">
+								<div class="overlay overlay-bg"></div>
+								<img class="image img-fluid" src="@/assets/images/cjgroup.png" alt="CJ Group Homepage pic">
+							</div>                             
+						</div>
+						<div class="p-inner">
+							<h4>CJ Group</h4>
+							<div class="cat">Sotware Company Website</div>
+						</div>                                         
+					</a>
 					<a href="https://igraphix237.com/" target="_blank" class="single-portfolio col-sm-4 all wordpress">
 						<div class="relative">
 							<div class="thumb">
