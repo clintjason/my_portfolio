@@ -48,28 +48,16 @@ export default {
 							<div class="cat">Graphic Design Company Website</div>
 						</div>                                         
 					</a>
-					<a href="https://omnitextgroup.com/" target="_blank" class="single-portfolio col-sm-4 all mockup">
+					<a href="https://appointment-scheduler-ruby.vercel.app/" class="single-portfolio col-sm-4 all mockup">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="@/assets/images/omnitextgroup.png" alt="OmnitextGroup Homepage pic">
-							</div>                             
-						</div>
-						<div class="p-inner">
-							<h4>Omnitextgroup</h4>
-							<div class="cat">Linguistic Company Website</div>
-						</div>                                         
-					</a>
-					<a class="single-portfolio col-sm-4 all mockup">
-						<div class="relative">
-							<div class="thumb">
-								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="@/assets/images/p2.jpg" alt="">
+								<img class="image img-fluid" src="@/assets/images/DrNg.png" alt="">
 							</div>                   
 						</div>
 						<div class="p-inner">
-							<h4>Product Box Package Mockup</h4>
-							<div class="cat">Mockup</div>
+							<h4>DrNG - Patient's Appointments CMS</h4>
+							<div class="cat">REACTJS-REDUX-ANTDESIGN SPA</div>
 						</div>                                         
 					</a>
 					<a href="https://github.com/clintjason/Kasa" target="_blank" class="single-portfolio col-sm-4 all mockup">
@@ -83,6 +71,18 @@ export default {
 							<h4>Kasa</h4>
 							<div class="cat">Housing E-commerce Website</div>
 						</div>
+					</a>
+					<a href="https://omnitextgroup.com/" target="_blank" class="single-portfolio col-sm-4 all mockup">
+						<div class="relative">
+							<div class="thumb">
+								<div class="overlay overlay-bg"></div>
+								<img class="image img-fluid" src="@/assets/images/omnitextgroup.png" alt="OmnitextGroup Homepage pic">
+							</div>                             
+						</div>
+						<div class="p-inner">
+							<h4>Omnitextgroup</h4>
+							<div class="cat">Linguistic Company Website</div>
+						</div>                                         
 					</a>
 					<a href="https://github.com/clintjason/reservia" target="_blank"  class="single-portfolio col-sm-4 all packaging">
 						<div class="relative">
@@ -192,16 +192,16 @@ export default {
 							<div class="cat">Backend of Socia Media Website</div>
 						</div>
 					</a>
-					<a href="https://github.com/clintjason/backend_kanap.git" target="_blank" class="single-portfolio col-sm-4 all backend">
+					<a href="https://github.com/clintjason/AppointSchedulerBackend.git" target="_blank" class="single-portfolio col-sm-4 all backend">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="@/assets/images/backend_kanap_refurbished.png" alt="backend_api_kanap">
+								<img class="image img-fluid" src="@/assets/images/AppointSchedulerBackend.png" alt="backend_api_DrNG">
 							</div>                           
 						</div>
 						<div class="p-inner">
-							<h4>RestApi For Kanap</h4>
-							<div class="cat">Refurbished Backend of Kanap</div>
+							<h4>DrNG Appointment CMS Backend</h4>
+							<div class="cat">NodeJs-Express-MySQL-SEQUELIZE</div>
 						</div>
 					</a>
 				</div>
