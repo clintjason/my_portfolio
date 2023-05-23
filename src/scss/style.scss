@@ -269,12 +269,17 @@ a {
 
 
 .site-hero {
-	background-color: #ccc;
+	background-color: rgb(32,18,10) !important;
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
 	position: relative;
 	overflow: hidden;
+
+
+	@media screen and (min-width: 585px) {
+		background-size: contain !important;
+	}
 	&, .row {
 		height: 100vh;
 		min-height: 800px;
@@ -313,10 +318,10 @@ a {
 		color: rgba(255,255,255,.5);
 	}
 	@media screen and (min-width: 585px) {
-		background-position-y: top;
+		//background-position-y: 7% !important;
 	}
 	@media screen and (min-width: 655px) {
-		background-position-y: center;
+		//background-position-y: center;
 	}
 
 }
