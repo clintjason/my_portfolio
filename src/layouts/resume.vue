@@ -32,6 +32,12 @@
 					<h2 class="mb-5">Experience</h2>
 
 					<div class="resume-item mb-4">
+						<span class="date"><span class="icon-calendar"></span> May 2023 - Present</span>
+						<h3>FullStack Developer</h3>
+						<p>Build and maintain Micro Applications.</p>
+						<span class="school">Datatellers</span>
+					</div>
+					<div class="resume-item mb-4">
 						<span class="date"><span class="icon-calendar"></span> January 2022 - Present</span>
 						<h3>FullStack Developer</h3>
 						<p>Built an elearning fullstack application for financial intelligence tutoring.</p>

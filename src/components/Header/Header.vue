@@ -21,7 +21,7 @@ export default {
           <div class="col-md-10 text-center pt-5">
             <h1 class="site-heading site-animate">Hello, I'm <strong class="d-block">Clint Jason</strong></h1>
             <strong class="d-block text-white text-uppercase letter-spacing">and I am a freelance Software Engineer</strong>
-            <strong class="d-block text-white text-uppercase letter-spacing">Willing to Relocate in Europe, USA & Canada</strong>
+            <strong class="d-block text-white text-uppercase letter-spacing">Willing to Relocate Worldwide</strong>
           </div>
         </div>
       </div>
