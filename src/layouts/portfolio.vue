@@ -18,6 +18,7 @@ export default {
 					<li data-filter=".mockup">ReactJs</li>
 					<li data-filter=".vuejs">VueJs</li>
 					<li data-filter=".wordpress">WordPress</li>
+					<li data-filter=".prestashop">Prestashop</li>
 					<li data-filter=".backend">Backend</li>
 				</ul>
 			</div>
@@ -46,6 +47,42 @@ export default {
 						<div class="p-inner">
 							<h4>igraphix237</h4>
 							<div class="cat">Graphic Design Company Website</div>
+						</div>                                         
+					</a>
+					<a href="https://yourtruebeauty.net/" target="_blank" class="single-portfolio col-sm-4 all wordpress">
+						<div class="relative">
+							<div class="thumb">
+								<div class="overlay overlay-bg"></div>
+								<img class="image img-fluid" src="@/assets/images/truebeauty.png" alt="True Beauty Homepage pic">
+							</div>                             
+						</div>
+						<div class="p-inner">
+							<h4>True Beauty</h4>
+							<div class="cat">Beauty Saloon Website</div>
+						</div>                                         
+					</a>
+					<a href="https://yourtruebeauty.net/" target="_blank" class="single-portfolio col-sm-4 all wordpress">
+						<div class="relative">
+							<div class="thumb">
+								<div class="overlay overlay-bg"></div>
+								<img class="image img-fluid" src="@/assets/images/fwb.png" alt="FWB Homepage pic">
+							</div>                             
+						</div>
+						<div class="p-inner">
+							<h4>Future Without Borders</h4>
+							<div class="cat">NGO Website</div>
+						</div>                                         
+					</a>
+					<a href="https://www.mondainehome.com/" target="_blank" class="single-portfolio col-sm-4 all prestashop">
+						<div class="relative">
+							<div class="thumb">
+								<div class="overlay overlay-bg"></div>
+								<img class="image img-fluid" src="@/assets/images/mondainehome.png" alt="FWB Homepage pic">
+							</div>                             
+						</div>
+						<div class="p-inner">
+							<h4>Online Ecommerce Store</h4>
+							<div class="cat">Ecommerce Website</div>
 						</div>                                         
 					</a>
 					<a href="https://appointment-scheduler-ruby.vercel.app/" class="single-portfolio col-sm-4 all mockup">
