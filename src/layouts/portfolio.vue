@@ -217,6 +217,18 @@ export default {
 							<div class="cat">Portfolio Website - Vite + Vue3</div>
 						</div>                                         
 					</a>
+					<a href="https://github.com/clintjason/DemoGraphQLbackend.git" target="_blank" class="single-portfolio col-sm-4 all backend">
+						<div class="relative">
+							<div class="thumb">
+								<div class="overlay overlay-bg"></div>
+								<img class="image img-fluid" src="@/assets/images/graphql_backend_server.png" alt="graphql_backend_server">
+							</div>                           
+						</div>
+						<div class="p-inner">
+							<h4>GraphQL Backend Server for EStore</h4>
+							<div class="cat">GraphQL, Node, Express, MySQL, Sequelize</div>
+						</div>
+					</a>
 					<a href="https://github.com/clintjason/social_media_backend.git" target="_blank" class="single-portfolio col-sm-4 all backend">
 						<div class="relative">
 							<div class="thumb">
