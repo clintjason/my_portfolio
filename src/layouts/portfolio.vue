@@ -85,7 +85,7 @@ export default {
 							<div class="cat">Ecommerce Website</div>
 						</div>                                         
 					</a>
-					<a href="https://appointment-scheduler-ruby.vercel.app/" class="single-portfolio col-sm-4 all mockup">
+					<!-- <a href="https://appointment-scheduler-ruby.vercel.app/" class="single-portfolio col-sm-4 all mockup">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
@@ -96,7 +96,7 @@ export default {
 							<h4>DrNG - Patient's Appointments CMS</h4>
 							<div class="cat">REACTJS-REDUX-ANTDESIGN SPA</div>
 						</div>                                         
-					</a>
+					</a> -->
 					<a href="https://github.com/clintjason/Kasa" target="_blank" class="single-portfolio col-sm-4 all mockup">
 						<div class="relative">
 							<div class="thumb">
@@ -241,7 +241,7 @@ export default {
 							<div class="cat">Backend of Socia Media Website</div>
 						</div>
 					</a>
-					<a href="https://github.com/clintjason/AppointSchedulerBackend.git" target="_blank" class="single-portfolio col-sm-4 all backend">
+					<!-- <a href="https://github.com/clintjason/AppointSchedulerBackend.git" target="_blank" class="single-portfolio col-sm-4 all backend">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
@@ -252,7 +252,7 @@ export default {
 							<h4>DrNG Appointment CMS Backend</h4>
 							<div class="cat">NodeJs-Express-MySQL-SEQUELIZE</div>
 						</div>
-					</a>
+					</a> -->
 				</div>
 			</div>
 		</div>
