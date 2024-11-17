@@ -145,6 +145,30 @@ export default {
 							<div class="cat">Linguistic Company Website</div>
 						</div>                                         
 					</a>
+					<a href="https://github.com/clintjason/pms.git" target="_blank" class="single-portfolio col-sm-4 all mockup">
+						<div class="relative">
+							<div class="thumb">
+								<div class="overlay overlay-bg"></div>
+								<img class="image img-fluid" src="@/assets/images/pms.png" alt="OmnitextGroup Homepage pic">
+							</div>                             
+						</div>
+						<div class="p-inner">
+							<h4>PMS</h4>
+							<div class="cat">Patient Monitoring System</div>
+						</div>                                         
+					</a>
+					<a href="https://github.com/clintjason/package_tracker.git" target="_blank" class="single-portfolio col-sm-4 all mockup">
+						<div class="relative">
+							<div class="thumb">
+								<div class="overlay overlay-bg"></div>
+								<img class="image img-fluid" src="@/assets/images/packagetracer.png" alt="OmnitextGroup Homepage pic">
+							</div>                             
+						</div>
+						<div class="p-inner">
+							<h4>Package Tracer</h4>
+							<div class="cat">Package Tracer</div>
+						</div>                                         
+					</a>
 					<a href="https://github.com/clintjason/Kasa" target="_blank" class="single-portfolio col-sm-4 all mockup">
 						<div class="relative">
 							<div class="thumb">
@@ -155,6 +179,18 @@ export default {
 						<div class="p-inner">
 							<h4>Kasa</h4>
 							<div class="cat">Housing E-commerce Website</div>
+						</div>
+					</a>
+					<a href="https://multi-step-form-three-wheat.vercel.app/" target="_blank" class="single-portfolio col-sm-4 all mockup">
+						<div class="relative">
+							<div class="thumb">
+								<div class="overlay overlay-bg"></div>
+								<img class="image img-fluid" src="@/assets/images/multistep.png" alt="Multistep Preview">
+							</div>                               
+						</div>
+						<div class="p-inner">
+							<h4>Multistep-Form</h4>
+							<div class="cat">Multistep-Form</div>
 						</div>
 					</a>
 					<a href="https://github.com/clintjason/reservia" target="_blank"  class="single-portfolio col-sm-4 all packaging">
