@@ -25,16 +25,16 @@ export default {
 
 			<div class="filters-content">
 				<div class="row grid">
-					<a href="https://www.cj-group.co/" target="_blank" class="single-portfolio col-sm-4 all wordpress">
+					<a href="https://icompetence.ca/" target="_blank" class="single-portfolio col-sm-4 all wordpress">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="@/assets/images/cjgroup.png" alt="CJ Group Homepage pic">
+								<img class="image img-fluid" src="@/assets/images/icc.png" alt="Igraphix237 Homepage icc">
 							</div>                             
 						</div>
 						<div class="p-inner">
-							<h4>CJ Group</h4>
-							<div class="cat">Sotware Company Website</div>
+							<h4>Immigration Compétence Canada</h4>
+							<div class="cat">Immigration Company Website</div>
 						</div>                                         
 					</a>
 					<a href="https://igraphix237.com/" target="_blank" class="single-portfolio col-sm-4 all wordpress">
@@ -47,6 +47,30 @@ export default {
 						<div class="p-inner">
 							<h4>igraphix237</h4>
 							<div class="cat">Graphic Design Company Website</div>
+						</div>                                         
+					</a>
+					<a href="https://jaranclub.com/" target="_blank" class="single-portfolio col-sm-4 all wordpress">
+						<div class="relative">
+							<div class="thumb">
+								<div class="overlay overlay-bg"></div>
+								<img class="image img-fluid" src="@/assets/images/jaranclub.png" alt="Jaran Club Hero section">
+							</div>                             
+						</div>
+						<div class="p-inner">
+							<h4>Jaran's Club</h4>
+							<div class="cat">Sport Club Website</div>
+						</div>                                         
+					</a>
+					<a href="https://www.cj-group.co/" target="_blank" class="single-portfolio col-sm-4 all wordpress">
+						<div class="relative">
+							<div class="thumb">
+								<div class="overlay overlay-bg"></div>
+								<img class="image img-fluid" src="@/assets/images/cjgroup.png" alt="CJ Group Homepage pic">
+							</div>                             
+						</div>
+						<div class="p-inner">
+							<h4>CJ Group</h4>
+							<div class="cat">Sotware Company Website</div>
 						</div>                                         
 					</a>
 					<a href="https://yourtruebeauty.net/" target="_blank" class="single-portfolio col-sm-4 all wordpress">
@@ -97,16 +121,16 @@ export default {
 							<div class="cat">REACTJS-REDUX-ANTDESIGN SPA</div>
 						</div>                                         
 					</a> -->
-					<a href="https://github.com/clintjason/Kasa" target="_blank" class="single-portfolio col-sm-4 all mockup">
+					<a href="https://zuck.economyst.it/" target="_blank" class="single-portfolio col-sm-4 all mockup">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="@/assets/images/kasa.png" alt="kASA Preview">
+								<img class="image img-fluid" src="@/assets/images/zuck.png" alt="Zuck Preview">
 							</div>                               
 						</div>
 						<div class="p-inner">
-							<h4>Kasa</h4>
-							<div class="cat">Housing E-commerce Website</div>
+							<h4>Zuck</h4>
+							<div class="cat">Sugar derivatives production & supply chain Web app</div>
 						</div>
 					</a>
 					<a href="https://omnitextgroup.com/" target="_blank" class="single-portfolio col-sm-4 all mockup">
@@ -120,6 +144,18 @@ export default {
 							<h4>Omnitextgroup</h4>
 							<div class="cat">Linguistic Company Website</div>
 						</div>                                         
+					</a>
+					<a href="https://github.com/clintjason/Kasa" target="_blank" class="single-portfolio col-sm-4 all mockup">
+						<div class="relative">
+							<div class="thumb">
+								<div class="overlay overlay-bg"></div>
+								<img class="image img-fluid" src="@/assets/images/kasa.png" alt="kASA Preview">
+							</div>                               
+						</div>
+						<div class="p-inner">
+							<h4>Kasa</h4>
+							<div class="cat">Housing E-commerce Website</div>
+						</div>
 					</a>
 					<a href="https://github.com/clintjason/reservia" target="_blank"  class="single-portfolio col-sm-4 all packaging">
 						<div class="relative">
@@ -191,6 +227,18 @@ export default {
 						<div class="p-inner">
 							<h4>Omnifood</h4>
 							<div class="cat">Restaurant Website</div>
+						</div>
+					</a>
+					<a href="https://odypharm.in/" target="_blank" class="single-portfolio col-sm-4 all vuejs">
+						<div class="relative">
+							<div class="thumb">
+								<div class="overlay overlay-bg"></div>
+								<img class="image img-fluid" src="@/assets/images/odypharm.png" alt="Odypharm Home Page Preview">
+							</div>                       
+						</div>
+						<div class="p-inner">
+							<h4>Odypharm</h4>
+							<div class="cat">Pharmaceutic Product delivery and monitoring chain</div>
 						</div>
 					</a>
 					<a href="https://money-mastery-frontend.vercel.app/" target="_blank" class="single-portfolio col-sm-4 all vuejs">
